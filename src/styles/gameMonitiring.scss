@@ -1,0 +1,168 @@
+#search {
+  margin-bottom: 20px;
+  border-color: #ddd;
+  color: #333;
+  margin-bottom: 20px;
+  background-color: rgb(231, 231, 231);
+  border: 1px solid transparent;
+  border-radius: 3px;
+  // -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 1px #B4B4B5;
+  
+}
+.control-label {
+  float:left;
+}
+.group-search {
+  margin: 20px;
+  font-size: 17px;
+  font-weight:bold;
+  min-height: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+}
+.group-item {
+  margin-left: 40px;
+  margin-bottom: 20px;
+  // background-color: rgb(122, 14, 14);
+  vertical-align: middle;
+}
+
+.set-text{
+  font-size: 17px;
+  // background-color: #000;
+  font-weight:bold;
+  text-align: left;
+  // margin-right: 50px;
+  padding-bottom: 6px;
+  margin-bottom: 0;
+
+  
+}
+
+@media(min-width: 769px) {
+  .fastSearch{
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+@media(max-width: 768px) {
+  .fastSearch{
+    margin: 10px;
+    vertical-align: middle;
+  }
+}
+.btn{
+    background-color: #8bc34a;
+    border-color: #8bc34a;
+    color: #fff; 
+    margin: 10px;   
+}
+.selectC {
+  margin: 10px;
+}
+.pickDate {
+  margin: 10px;
+}
+.input {
+  margin-left: 10px;
+  position: top;
+  text-align: justify;
+  width: 200px;
+}
+
+.sendBtn{
+  text-align:right
+}
+
+body .el-table th.gutter {
+  display: table-cell !important;
+}
+
+.el-col {
+  border-radius: 4px;
+}
+.bg-purple-dark {
+  background: #99a9bf;
+}
+.bg-purple {
+  background: #d3dce6;
+}
+.bg-purple-light {
+  background: #e5e9f2;
+}
+.grid-content {
+  border-radius: 4px;
+  min-height: 36px;
+}
+
+
+.peopleCount {
+  background-color: #26a69a;
+  border-color: #26a69a;
+  color: #fff;
+
+}
+.totalBet{
+  background-color: #29b6f6;
+  border-color: #29b6f6;
+  color: #fff;
+}
+.totalWinlose{
+  background-color: #ec407a;
+  border-color: #ec407a;
+  color: #fff;
+}
+.FreeGame{
+  background-color: #ffa726;
+  border-color: #ffa726;
+  color: #fff;
+}
+.JPWIN{
+  background-color: #8d6e63;
+  border-color: #8d6e63;
+  color: #fff;
+}
+.totalWinloseNoJP{
+  background-color: #78909c;
+  border-color: #78909c;
+  color: #fff;
+}
+.DoubleGame {
+  background-color: #ff7043;
+  border-color: #ff7043;
+  color: #fff;
+}
+.BonusGame1{
+  background-color: #3944da;
+  border-color: #3944da;
+  color: #fff;
+}
+.BonusGame2{
+  background-color: #b826c5;
+  border-color: #b826c5;
+  color: #fff;
+}
+.Round{
+  background-color: #d61042;
+  border-color: #d61042;
+  color: #fff;
+}
+.countLable {
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  height: 100px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+  padding: 20px;
+}
+h1{
+  letter-spacing: -0.015em;
+  font-size: 25px;
+  font-family: inherit;
+  font-weight: 400;
+  line-height: 1.5;
+  color: inherit;
+  margin: 0 !important;
+}
